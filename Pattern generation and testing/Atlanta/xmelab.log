@@ -1,0 +1,17 @@
+xmelab(64): 19.09-s001: (c) Copyright 1995-2019 Cadence Design Systems, Inc.
+TOOL:	xmelab(64)	19.09-s001: Started on Mar 28, 2022 at 14:31:31 CDT
+xmelab
+    -mess
+    -access rwc
+    c17Tb
+
+xmelab: *W,ARCMRA: Elaborating the WORKLIB.C17TB:TEST, MRA (most recently analyzed) architecture.
+	Elaborating the design hierarchy:
+	Building instance specific data structures.
+	Design hierarchy summary:
+		      Instances  Unique
+		Components:   3       2
+		Processes:    7       7
+		Signals:     11      11
+	Writing initial simulation snapshot: WORKLIB.C17TB:TEST
+TOOL:	xmelab(64)	19.09-s001: Exiting on Mar 28, 2022 at 14:31:32 CDT  (total: 00:00:01)

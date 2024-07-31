@@ -1,0 +1,14 @@
+xmvhdl(64): 19.09-s001: (c) Copyright 1995-2019 Cadence Design Systems, Inc.
+TOOL:	xmvhdl(64)	19.09-s001: Started on Mar 28, 2022 at 14:31:28 CDT
+xmvhdl
+    -mess
+    -WORK worklib
+    c17Tb.vhd
+
+c17Tb.vhd:
+	errors: 0, warnings: 0
+WORKLIB.C17TB (entity):
+	streams: 1, words: 63
+WORKLIB.C17TB:TEST (architecture):
+	streams: 2, words: 595
+TOOL:	xmvhdl(64)	19.09-s001: Exiting on Mar 28, 2022 at 14:31:28 CDT  (total: 00:00:00)

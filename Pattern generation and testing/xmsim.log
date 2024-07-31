@@ -1,0 +1,15 @@
+xmsim(64): 19.09-s001: (c) Copyright 1995-2019 Cadence Design Systems, Inc.
+
+-------------------------------------
+Relinquished control to SimVision...
+xcelium> 
+xcelium> stop -create -time 320ns -relative
+Created stop 1
+xcelium> database -open waves -into waves.shm -default
+Created default SHM database waves
+xcelium> probe -create -shm :N1 :N2 :N3 :N6 :N7 :N22 :N23
+Created probe 1
+xcelium> run
+320 NS + 0 (stop 1)
+xcelium> ^C
+xcelium> exit
